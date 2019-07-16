@@ -88,7 +88,11 @@ h1 {
 }
 
 footer {
-    text-align: center;
+    text-align: center;   
+    background-image: url("../img/footer.jpg");
+    margin-top: 100px;
+    color: azure;
+
 }
 
 
