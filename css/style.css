@@ -70,6 +70,7 @@ nav ul li{
 h1 {
     color:#c3c3c7;
     font-family: 'Cardo', serif;
+    font-size: 30px;
 }
 
 
@@ -77,11 +78,11 @@ h1 {
     width: auto;
 }
 
-.social-links {
+.social {
     text-align: center;
 }
 
-.social-links img {
+.social img {
     width: 40px;
     margin: 40px;
 }
@@ -130,7 +131,7 @@ footer {
         margin-right: 10px;
     }
     
-    .social-links {
+    .social{
         clear: both;
     }
 }
