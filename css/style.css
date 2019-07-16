@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Noticia+Text&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
 * {
     font-family: 'Noticia Text', serif;
     line-height: 1.4;
@@ -25,10 +25,10 @@
 
 
 .masthead h1 {
-    font-family: 'Noticia Text', serif;
+    font-family: 'Orbitron', sans-serif;
     text-shadow: 0px 0px 3px #fff;
     color: #fff;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     margin-top: 250px;
      
 }
