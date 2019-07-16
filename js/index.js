@@ -64,7 +64,7 @@ function handleSelection() {
                 content.innerHTML = `<h1>${resource_object.f1.heading}</h1><img src="${resource_object.f1.imgUrl}" alt="${resource_object.f1.imgAlt}"><p>${resource_object.f1.bodyText}</p>`;
             }
             if (i == 1) {
-                content.innerHTML = `<h1>${resource_object.Indycar.headingContent}</h1><img src="${resource_object.Indycar.imgUrl}" alt="${resource_object.Indycar.imgAlt}"><p>${resource_object.Indycar.bodyText}</p>`;
+                content.innerHTML = `<h1>${resource_object.Indycar.heading}</h1><img src="${resource_object.Indycar.imgUrl}" alt="${resource_object.Indycar.imgAlt}"><p>${resource_object.Indycar.bodyText}</p>`;
             }
             if (i == 2) {
                 content.innerHTML = `<h1>${resource_object.NASCAR.heading}</h1><img src="${resource_object.NASCAR.imgUrl}" alt="${resource_object.NASCAR.imgAlt}"><p>${resource_object.NASCAR.bodyText}</p>`;
